@@ -1,4 +1,5 @@
 ignore/
 ignore/temp1
 ignore/temp2
-ign
+ign.txt
+*.pdf
